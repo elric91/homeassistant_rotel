@@ -1,7 +1,6 @@
-# Custom components for Home Assistant
+# Rotel component for Home Assistant
 Custom components for Home Assistant
 
-## Component : Rotel TCP (roteltcp.py)
 A media_player platform that can be used through HASS to :
 - turn on and off the amplifier
 - adjust volume
