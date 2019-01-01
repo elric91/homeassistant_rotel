@@ -6,7 +6,7 @@ Known working devices :
 
 import asyncio
 import logging
-from homeassistant.util import async as hasync
+from homeassistant.util import async_ as hasync
 
 import voluptuous as vol
 from functools import partial
